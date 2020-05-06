@@ -9,3 +9,5 @@ If your query finally matches just 1 result, detailed info about this country wi
 <b>Note:</b> For this last functionality to work, you will need your own api key from api.weatherstack.com. You need to put it's value inside the environment variable process.env.REACT_APP_API_KEY.<br>
 You can do this by installing the node package 'dotenv', creating a .env file and setting the content inside of it to be<br><br>
 <b>REACT_APP_API_KEY='your key goes here'</b>
+<br><br>
+I did this as an exercise from a course I'm taking
